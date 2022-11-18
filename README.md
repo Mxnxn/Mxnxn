@@ -8,6 +8,7 @@ I have skills and I always tring to master it more by taking complex challeges. 
 Currently working on 2 projects (Let me know if somebody wants to collaborate):
 - Developing Voice-assistance on Gujarati language using python and Data collected from sources and scraping. (I work on this as I get free time). 
 - Docusign like web application opensource. (As this is expensive, I will help people to save their money). Developing this using React.js and Django.
+- Developing Telegram bot named Gaitonde in Hindi-English (Hinglish) language to download anything from active torrent listings.
 
 Projects I've completed most recently (2022):
 - Rain Forest Classification using different machine-learning models like XGBoost, Gradient Boosting, Logistic Regression, Random Forest.

@@ -5,6 +5,11 @@ I've pursued a Master of Professional Analytics (Applied Machine Intelligence) a
 
 I have skills and I always trying to master them more by taking on complex challenges. In 2019, I started invoicing project while learning ReactJs. Doing same for ML and DL. Because I believe it's a best-possible approach to learn as well as work by reading documentation, facing errors, etc.
 
+Website:
+- https://mxnxn.com (Website for Data Scientist)
+- https://dev.mxnxn.com (Website for Web developer)
+- https://dev.mxnxn.com/skills (Projects for Web developer)
+
 Currently working on 2 projects (Let me know if somebody wants to collaborate):
 - Developing Voice-assistance in the Gujarati language using Python and Data collected from sources and scraping. (I work on this as I get free time).
 - Azure ML Studio (Deployment, Hypertunning through AutoML, Designing)

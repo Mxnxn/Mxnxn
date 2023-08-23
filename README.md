@@ -3,8 +3,6 @@
 
 I've pursued a Master of Professional Analytics (Applied Machine Intelligence) at Northeastern University Toronto Campus. I'm still a young person who has experimented with several initiatives in each of the aforementioned directions.
 
-I have skills and I always trying to master them more by taking on complex challenges. In 2019, I started invoicing project while learning ReactJs. Doing same for ML and DL. Because I believe it's a best-possible approach to learn as well as work by reading documentation, facing errors, etc.
-
 Website:
 - https://mxnxn.com (Website for Data Scientist)
 - https://dev.mxnxn.com (Website for Web developer)

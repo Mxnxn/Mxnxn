@@ -16,8 +16,7 @@ Currently working on 2 projects (Let me know if somebody wants to collaborate):
 - AWS (Pipelining for development and deployment)
 
 Projects I've completed most recently (2022):
-- Rain Forest Classification using different machine-learning models like XGBoost, Gradient Boosting, Logistic Regression, and Random Forest.
-- Sarcastic Tweet Classification using LSTM.
+- Rain Forest Classification using different machine-learning models like XGBoost, Gradient Boosting, Logistic Regression, and Random Forest. (Streamline through Scikit-learn Pipelines)
 - Successfully implemented BERT with PyTorch for potential risk classification (NLP) including Economic and risk to health for Sofvie Inc, Toronto, Canada.
 
 

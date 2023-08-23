@@ -8,7 +8,7 @@ Website:
 - https://dev.mxnxn.com (Website for Web developer)
 - https://dev.mxnxn.com/skills (Projects for Web developer)
 
-Currently working on 2 projects (Let me know if somebody wants to collaborate):
+In progress! (Let me know if somebody wants to collaborate):
 - Developing Voice-assistance in the Gujarati language using Python and Data collected from sources and scraping. (I work on this as I get free time).
 - Azure ML Studio (Deployment, Hypertunning through AutoML, Designing)
 - AWS (Pipelining for development and deployment)

@@ -15,7 +15,7 @@ Currently working on 2 projects (Let me know if somebody wants to collaborate):
 - Azure ML Studio (Deployment, Hypertunning through AutoML, Designing)
 - AWS (Pipelining for development and deployment)
 
-Projects I've completed most recently (2022):
+Achievements and Completion (2022-2023):
 - Rain Forest Classification using different machine-learning models like XGBoost, Gradient Boosting, Logistic Regression, and Random Forest. (Streamline through Scikit-learn Pipelines)
 - Successfully implemented BERT with PyTorch for potential risk classification (NLP) including Economic and risk to health for Sofvie Inc, Toronto, Canada.
 

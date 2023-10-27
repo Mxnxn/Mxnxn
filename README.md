@@ -5,12 +5,15 @@ I've pursued a Master of Professional Analytics (Applied Machine Intelligence) a
 
 Website:
 - https://mxnxn.com (Website for Data Scientist)
-- https://dev.mxnxn.com (Website for Web developer)
+- https://dev.mxnxn.com (Website for Web developers)
 - https://dev.mxnxn.com/skills (Projects for Web developer)
 
-In progress! (Let me know if somebody wants to collaborate):
-- Developing Voice-assistance in the Gujarati language using Python and Data collected from sources and scraping. (I work on this as I get free time).
-- Azure ML Studio (Deployment, Hypertunning through AutoML, Designing)
+In progress!:
+- CI/CD: Jenkins, CircleCI
+- DevOps: Apache Kafka & Confluence
+
+Freshly learnt:
+- Azure (Deployment, Hypertunning through AutoML, Designing)
 - AWS (Pipelining for development and deployment)
 
 Achievements and Completion (2022-2023):
